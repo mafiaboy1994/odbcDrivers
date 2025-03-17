@@ -1,7 +1,7 @@
 {
     "DSNs": [
         {
-        "Name": "Testx86003",
+        "Name": "Testx86",
         "Server": "127.0.0.1",
         "Port": "5432",
         "Database": "testdb",
