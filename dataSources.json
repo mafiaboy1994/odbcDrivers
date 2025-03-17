@@ -1,0 +1,25 @@
+{
+    "DSNs": [
+        {
+        "Name": "Testx86003",
+        "Server": "127.0.0.1",
+        "Port": "5432",
+        "Database": "testdb",
+        "Username": "postgres",
+        "Password": "password123",
+        "Driver": "PostgreSQL Unicode",
+        "Platform": "32-Bit"
+        },
+        {
+            "Name": "Testx64",
+            "Server": "127.0.0.1",
+            "Port": "5432",
+            "Database": "testdb",
+            "Username": "postgres",
+            "Password": "password123",
+            "Driver": "PostgreSQL Unicode",
+            "Platform": "64-Bit"
+            }
+    ]
+}
+  
